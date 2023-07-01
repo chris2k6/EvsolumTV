@@ -686,9 +686,6 @@ http://149.62.177.99:8004/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eutelsat_4k1.png" group-title="4K", HotBird 4K1
 http://149.62.177.99:8004/play/a00s/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thematv.com/images/channels/museum.png" group-title="4K", Museum 4K
-http://149.62.177.99:8004/play/a00y/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/287px-NASA_logo.svg.png" group-title="4K", Nasa TV UHD
 http://149.62.177.99:8004/play/a00t/index.m3u8
 
