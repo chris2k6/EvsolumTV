@@ -517,7 +517,7 @@ https://tvup-ccpv2-live.secure2.footprint.net/24horas/24horas.mpd
 https://tvup-ccpv2-live.secure2.footprint.net/canal13/canal13.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ww2.movistar.cl/modalcanales/img/logos/hd-pro/nacionales/inicia-11.jpg" group-title="NACIONAL",13 CABLE
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/148
+http://playhispano.org:8080/streamtvjh/li0cOlwGLg/129445
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/t13-en-vivo.png" group-title="NACIONAL",T13
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -609,7 +609,7 @@ https://tvup-ccpv2-live.secure2.footprint.net/ntv/ntv.mpd
 https://tvup-ccpv2-live.secure2.footprint.net/puntajenacional/puntajenacional.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ww2.movistar.cl/modalcanales/img/logos/hd-pro/internacionales/inicia-12.jpg" group-title="NACIONAL",REC TV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/149
+http://playhispano.org:8080/streamtvjh/li0cOlwGLg/129444
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.senpaitv.com/wp-content/uploads/2022/03/logosenpai.png" group-title="NACIONAL",SENPAI TV
 http://live.mundogo.cl/senpaitv/index.m3u8
@@ -639,9 +639,6 @@ https://tvup-ccpv2-live.secure2.footprint.net/ucl/ucl.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.viaxesports.com/wp-content/themes/ViaxExports/img/logo-header.png" group-title="MUSICA",VIA X ESPORTS
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4251
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1621274351319367684/S9m0_mbT_400x400.jpg" group-title="NACIONAL",VIVE
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/200
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_vitalidadtv.jpg" group-title="NACIONAL",VITALIDAD TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
