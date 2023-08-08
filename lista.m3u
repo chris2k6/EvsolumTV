@@ -434,9 +434,6 @@ http://playhispano.org:8080/streamtvjh/li0cOlwGLg/152553
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Urban Beat" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/stingrayMusicUrbanBeats/logo_big.png" group-title="MUSICA", Stingray Urban Beat
 http://playhispano.org:8080/streamtvjh/li0cOlwGLg/152561
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://scontent.fscl35-1.fna.fbcdn.net/v/t1.18169-9/26195402_10156027977299706_8897615451280903231_n.png?_nc_cat=110&cb=99be929b-3346023f&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGGgC1AjgxUNX-id6odaKDDJHwA_SMYnhEkfAD9IxieEXJs3ArXx3HLGA0cTOezNIr8Ca5JSg4-6pLpPf3wLEfw&_nc_ohc=Irpn02WrxYMAX8uuJRA&_nc_ht=scontent.fscl35-1.fna&oh=00_AfBrRu7SexwUUUCiM6didu6SgKwcV-HDID3LawpYdUEVdA&oe=64C81E33" group-title="MUSICA",ZONA LATINA
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/52
-
 #EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito-mediano.png" group-title="INFANTILES",CARTOONITO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OzBCvhtHy3fHSZQ+JTRmVQ", "kid":"8ThSQogpXt+pv+sOkV1+nw" },{ "kty":"oct", "k":"pkxKpbY3Y6eOtDg6MzZy5g", "kid":"nXEQISDNUVCL1e2AQ/A2Bw" },{ "kty":"oct", "k":"cPXhHh5RnSFLf1CyZn+fKA", "kid":"UKIuDrCNU7iCiW03cXIJBg" } ], "type":"temporary" }
@@ -644,6 +641,9 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4251
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"H+Ijh6TRIszJauVcaLIq2Q", "kid":"JgSEWXrxXUGBILyZ+9oXrA" },{ "kty":"oct", "k":"StkrL4rMVWlF9cLUD6H3hw", "kid":"ROOVAV94XQeUOGiYSYB5dA" },{ "kty":"oct", "k":"qkHVD5ws3TAzOkDb91dCkw", "kid":"50Hsq4KfUXWxM1olXKK6+w" } ], "type":"temporary" }
 https://tvup-ccpv2-live.secure2.footprint.net/vitalidadtv1c/vitalidadtv1c.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://scontent.fscl35-1.fna.fbcdn.net/v/t1.18169-9/26195402_10156027977299706_8897615451280903231_n.png?_nc_cat=110&cb=99be929b-3346023f&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGGgC1AjgxUNX-id6odaKDDJHwA_SMYnhEkfAD9IxieEXJs3ArXx3HLGA0cTOezNIr8Ca5JSg4-6pLpPf3wLEfw&_nc_ohc=Irpn02WrxYMAX8uuJRA&_nc_ht=scontent.fscl35-1.fna&oh=00_AfBrRu7SexwUUUCiM6didu6SgKwcV-HDID3LawpYdUEVdA&oe=64C81E33" group-title="NACIONAL",ZONA LATINA
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/52
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/26_de_argentina-mediano.png" group-title="ARGENTINA",CANAL 26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
