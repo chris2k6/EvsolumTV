@@ -656,7 +656,7 @@ http://playhispano.org:8080/streamtvjh/li0cOlwGLg/90602
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DE LA CIUDAD" tvg-logo="http://television.com.ar/wp-content/uploads/2016/05/marcacanalciudad19.jpg" group-title="ARGENTINA", CANAL DE LA CUIDAD
 https://ytb.wolfoz.workers.dev/stream/wZzwB_ghQeQ/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CRONICA" tvg-logo="http://playhispano.org:25461/images/061bfe9fab945d79ade677a2f98c1d1f.png" group-title="ARGENTINA", CRONICA
+#EXTINF:-1 tvg-id="" tvg-name="CRONICA" tvg-logo="https://pbs.twimg.com/profile_images/608110707897466880/R8Y1NCHf_400x400.png" group-title="ARGENTINA", CRONICA
 http://playhispano.org:8080/streamtvjh/li0cOlwGLg/195310
 
 #EXTINF:-1 tvg-id="" tvg-name="EL TRECE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="ARGENTINA", EL TRECE HD
