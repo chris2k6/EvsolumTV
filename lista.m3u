@@ -253,6 +253,9 @@ http://tv.dominiotv.xyz:25461/live/TFerrufino30/2628430/66643.ts
 #EXTINF:-1 tvg-id="FoxSports3arg.mx" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Fox_Sports_3_%28Argentina%29_2023.png" group-title="DEPORTES",FOX SPORTS 3 ARG
 http://playhispano.org:8080/streamtvjh/li0cOlwGLg/86354
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/M/mls-crest-minnesota-united-fc-logo-910A3E290F-seeklogo.com.png" group-title="DEPORTES", MLS
+http://mlsleague.ddns.net:8086/1.m3u8
+
 #EXTINF:-1 tvg-id="TheGolfChannelLatinoamerica.mx" tvg-name="" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/628.png" group-title="DEPORTES",GOLF CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"k8MSc2CbunoqeF/W4TbQUg", "kid":"1+PK6rZJX+CzoznGvPojRw" },{ "kty":"oct", "k":"sV9Ie5eQ7Loz9bhqFZXJ6g", "kid":"Uo4yQsdAWg+wLJ4kWc/qEw" },{ "kty":"oct", "k":"scvxgSDAUJDlCtQlPMZBtg", "kid":"LKRAqXZwXYWWRODrH3z7cw" } ], "type":"temporary" }
