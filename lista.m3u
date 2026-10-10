@@ -7,7 +7,7 @@ http://181.209.105.115:2525/play/a24/index.m3u8
 http://cloudtvserviceplatinum.site/live/elenalatorre/SYNJVQwyJs/46097.ts
 #EXTINF:-1 group-title="-",Adult Swim HD
 http://181.119.215.61:8000/play/a05v/index.m3u8
-#EXTINF:-1 group-title="-",AMERICA TV HD
+#EXTINF:-1 group-title="-",America TV HD
 http://cloudtvserviceplatinum.site/live/elenalatorre/SYNJVQwyJs/712703.ts
 #EXTINF:-1 group-title="-",AM Sports
 http://181.209.105.115:2525/play/amsport/index.m3u8
@@ -15,8 +15,6 @@ http://181.209.105.115:2525/play/amsport/index.m3u8
 http://cloudtvserviceplatinum.site/live/elenalatorre/SYNJVQwyJs/46092.ts
 #EXTINF:-1 group-title="-",AXN HD
 http://cloudtvserviceplatinum.site/live/elenalatorre/SYNJVQwyJs/46093.ts
-#EXTINF:-1 group-title="-",America TV HD
-http://cloudtvserviceplatinum.site/live/elenalatorre/SYNJVQwyJs/712703.ts
 #EXTINF:-1 group-title="-",Argentisima Satelital
 http://cloudtvserviceplatinum.site/live/elenalatorre/SYNJVQwyJs/712721.ts
 #EXTINF:-1 group-title="-",C5N
